@@ -1,0 +1,10 @@
+﻿  webCam.cpp
+C:\OpenCVforVS\opencv4.2.0\build\include\opencv2\calib3d.hpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(81,23): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(86,34): warning C4244: '=': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(95,23): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(147,23): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(256,23): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(262,34): warning C4244: '=': '__int64' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\surfa\source\repos\webCam\webCam\webCam.cpp(270,23): warning C4244: '初期化中': '__int64' から 'int' への変換です。データが失われる可能性があります。
+  webCam.vcxproj -> C:\Users\surfa\source\repos\webCam\x64\Debug\webCam.exe
