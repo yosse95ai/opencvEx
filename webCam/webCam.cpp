@@ -140,6 +140,7 @@ std::vector<dict> blob_anarysis2(cv::Mat frame)
     }
     else
     {
+        ret.push_back({ {"FLAG", 0} });
         return ret;
     }
     for (int i = 0; i < loop; i++)
